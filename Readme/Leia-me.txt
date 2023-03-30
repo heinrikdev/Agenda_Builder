@@ -1,0 +1,16 @@
+As Justificativas estão em AgendaInterface;
+
+A versão que estou enviando é seguindo o padrão Builder em java, não sendo o  progresso do aplicativo react
+em js.
+Para conseguir executar meu codigo, siga os passos abaixo:
+
+ -> adicione calendarcomponents as "tools" na interface netbeans,
+ -> em swing/AWT components
+ -> add from JAR
+ -> selecione o calendarcomponents.jar
+ -> Escolha DatePicker
+ -> Selecione Beans
+ -> Atualize a agenda arrastando o DatePiker 
+ -> Caso não funcione tente atualizar arrastando o Date Picker para Login 
+ -> Após isso Ctrl + S para salvar alterações
+ -> O codigo deve ser utilizavel 
